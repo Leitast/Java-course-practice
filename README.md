@@ -9,7 +9,7 @@ Java课程设计暂告一段落
 
 但结果还是好的
 
-                                再次致谢
+                      再次致谢
 
 To Leitast:
 
@@ -17,4 +17,4 @@ To Leitast:
    
    但愿都走对了。
    
-                 From：A8级的AniFace
+                      From：A8级的AniFace
