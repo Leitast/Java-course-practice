@@ -1,5 +1,5 @@
 # Java-course-practice
-6.24  23：37：21
+  6.24   23:37:21
 
 Java课程设计暂告一段落
 
