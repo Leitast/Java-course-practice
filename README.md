@@ -1,4 +1,4 @@
-# Java-course-practice
+# Java-course-practice（大实习+3次课内实习）
   6.24   23:37:21
 
 Java课程设计暂告一段落
