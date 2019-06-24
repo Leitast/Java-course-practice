@@ -9,12 +9,12 @@ Java课程设计暂告一段落
 
 但结果还是好的
 
-                      再次致谢
+                       再次致谢
 
 To Leitast:
 
-   不同阶段的选择，
+         不同阶段的选择，
    
-   但愿都走对了。
+         但愿都走对了。
    
-                      From：A8级的AniFace
+                       From：A8级的AniFace
